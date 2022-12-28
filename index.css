@@ -1,0 +1,10 @@
+a     {
+      margin: 20px; font-size: 20px; color: blue;}
+body {
+      background-color: rgb(255, 255, 255); 
+      font-family: 'Times New Roman', Times, serif;
+      }
+p, h1 {color: brown; margin: 10px;}
+h3    {
+      style="margin: 5px; font-size: 25px
+      }
